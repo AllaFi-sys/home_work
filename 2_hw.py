@@ -13,3 +13,12 @@ def task_1() -> None:
 
 
 task_1()
+
+
+def task_2() -> None:
+    # Числа Фибоначчи
+    a: list[int] = [1, 2, 3, 5, 8, 13, 21]
+    print(a[0:3])
+
+
+task_2()
